@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    background-color: rgb(104, 211, 166);
+}
+#canvas-cpp-output {
+    border: 1px solid black;
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
